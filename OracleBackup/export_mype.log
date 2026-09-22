@@ -1,0 +1,32 @@
+;;; 
+Export: Release 21.0.0.0.0 - Production on Mar Sep 22 11:14:27 2026
+Version 21.3.0.0.0
+
+Copyright (c) 1982, 2021, Oracle and/or its affiliates.  All rights reserved.
+;;; 
+Conectado a: Oracle Database 21c Express Edition Release 21.0.0.0.0 - Production
+Iniciando "MYPE_FINANCIERO"."SYS_EXPORT_SCHEMA_01":  mype_financiero/********@localhost:1521/XEPDB1 SCHEMAS=mype_financiero DIRECTORY=dir_mype_pump DUMPFILE=mype_financiero_backup.dmp LOGFILE=export_mype.log 
+Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/TABLE_DATA
+Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/INDEX/STATISTICS/INDEX_STATISTICS
+Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/STATISTICS/TABLE_STATISTICS
+Procesando el tipo de objeto SCHEMA_EXPORT/STATISTICS/MARKER
+Procesando el tipo de objeto SCHEMA_EXPORT/PRE_SCHEMA/PROCACT_SCHEMA
+Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/TABLE
+Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/GRANT/OWNER_GRANT/OBJECT_GRANT
+Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/COMMENT
+Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/IDENTITY_COLUMN
+Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/INDEX/INDEX
+Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/CONSTRAINT/CONSTRAINT
+Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/CONSTRAINT/REF_CONSTRAINT
+. . "MYPE_FINANCIERO"."CAJA_DIARIA"             8.773 KB       1 filas exportadas
+. . "MYPE_FINANCIERO"."DETALLE_VENTA"           7.945 KB       2 filas exportadas
+. . "MYPE_FINANCIERO"."COMPROBANTE_PAGO"        7.781 KB       1 filas exportadas
+. . "MYPE_FINANCIERO"."ORDEN_COMPRA"            7.789 KB       1 filas exportadas
+. . "MYPE_FINANCIERO"."PROVEEDOR"               7.359 KB       1 filas exportadas
+. . "MYPE_FINANCIERO"."DETALLE_ORDEN_COMPRA"      7.5 KB       2 filas exportadas
+. . "MYPE_FINANCIERO"."VENTA"                   7.414 KB       1 filas exportadas
+La tabla maestra "MYPE_FINANCIERO"."SYS_EXPORT_SCHEMA_01" se ha cargado/descargado correctamente
+******************************************************************************
+El juego de archivos de volcado para MYPE_FINANCIERO.SYS_EXPORT_SCHEMA_01 es:
+  C:\ORACLEBACKUP\MYPE_FINANCIERO_BACKUP.DMP
+El trabajo "MYPE_FINANCIERO"."SYS_EXPORT_SCHEMA_01" ha terminado correctamente en Mar Sep 22 11:15:02 2026 elapsed 0 00:00:34

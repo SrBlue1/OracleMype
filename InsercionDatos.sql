@@ -14,7 +14,7 @@ INSERT INTO detalle_orden_compra (id_variante_sku, cantidad_solicitada, cantidad
 VALUES ('TEXTIL-CASACA-L-NEGRO', 15.00, 15.00, 30.00, 1);
 
 
-INSERT INTO caja_diaria (id_sucursal, id_comerciante, monto_apertura, monto_cierre_sistema, monto_cierre_real, estado_caja, fecha_cierre)
+INSERT INTO caja_diaria (id_sucursal, id_empleado, monto_apertura, monto_cierre_sistema, monto_cierre_real, estado_caja, fecha_cierre)
 VALUES (5, 3, 100.00, 350.00, 350.00, 'CERRADA', CURRENT_TIMESTAMP);
 
 

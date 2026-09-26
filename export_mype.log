@@ -1,5 +1,5 @@
 ;;; 
-Export: Release 21.0.0.0.0 - Production on Mar Sep 22 11:14:27 2026
+Export: Release 21.0.0.0.0 - Production on Vie Sep 25 08:38:20 2026
 Version 21.3.0.0.0
 
 Copyright (c) 1982, 2021, Oracle and/or its affiliates.  All rights reserved.
@@ -15,10 +15,13 @@ Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/TABLE
 Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/GRANT/OWNER_GRANT/OBJECT_GRANT
 Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/COMMENT
 Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/IDENTITY_COLUMN
+Procesando el tipo de objeto SCHEMA_EXPORT/PROCEDURE/PROCEDURE
+Procesando el tipo de objeto SCHEMA_EXPORT/PROCEDURE/GRANT/OWNER_GRANT/OBJECT_GRANT
+Procesando el tipo de objeto SCHEMA_EXPORT/PROCEDURE/ALTER_PROCEDURE
 Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/INDEX/INDEX
 Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/CONSTRAINT/CONSTRAINT
 Procesando el tipo de objeto SCHEMA_EXPORT/TABLE/CONSTRAINT/REF_CONSTRAINT
-. . "MYPE_FINANCIERO"."CAJA_DIARIA"             8.773 KB       1 filas exportadas
+. . "MYPE_FINANCIERO"."CAJA_DIARIA"             8.820 KB       2 filas exportadas
 . . "MYPE_FINANCIERO"."DETALLE_VENTA"           7.945 KB       2 filas exportadas
 . . "MYPE_FINANCIERO"."COMPROBANTE_PAGO"        7.781 KB       1 filas exportadas
 . . "MYPE_FINANCIERO"."ORDEN_COMPRA"            7.789 KB       1 filas exportadas
@@ -29,4 +32,4 @@ La tabla maestra "MYPE_FINANCIERO"."SYS_EXPORT_SCHEMA_01" se ha cargado/descarga
 ******************************************************************************
 El juego de archivos de volcado para MYPE_FINANCIERO.SYS_EXPORT_SCHEMA_01 es:
   C:\ORACLEBACKUP\MYPE_FINANCIERO_BACKUP.DMP
-El trabajo "MYPE_FINANCIERO"."SYS_EXPORT_SCHEMA_01" ha terminado correctamente en Mar Sep 22 11:15:02 2026 elapsed 0 00:00:34
+El trabajo "MYPE_FINANCIERO"."SYS_EXPORT_SCHEMA_01" ha terminado correctamente en Vie Sep 25 08:38:54 2026 elapsed 0 00:00:33
